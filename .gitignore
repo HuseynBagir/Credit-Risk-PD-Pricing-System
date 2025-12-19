@@ -1,0 +1,61 @@
+# =========================
+# Python / virtualenv
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+
+# =========================
+# OS / editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Trained models & artifacts
+# =========================
+models/
+*.joblib
+*.pkl
+*.bin
+
+# =========================
+# Logs & outputs
+# =========================
+logs/
+*.log
+outputs/
+reports/
+
+data/
+
+# =========================
+# Streamlit / FastAPI runtime
+# =========================
+.streamlit/
+.env
+.env.*
+
+# =========================
+# Coverage / profiling
+# =========================
+.coverage
+htmlcov/
+.prof
+
+
+*.ipynb
+
+api_ex.txt
+tree.txt
