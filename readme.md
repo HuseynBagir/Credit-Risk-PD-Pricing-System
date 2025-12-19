@@ -139,6 +139,27 @@ Population Stability Index (PSI) computed between validation and test sets for a
 
 All PSI values are **well below common alert thresholds**, indicating stable data distributions.
 
+| Feature            | PSI        |
+| ------------------ | ---------: |
+| loan_amnt          |     0.0172 |
+| funded_amnt        |     0.0172 |
+| annual_inc         |     0.0031 |
+| dti                |     0.0357 |
+| fico_range_high    |     0.0875 |
+| fico_range_low     |     0.0875 |
+| delinq_2yrs        |     0.0183 |
+| inq_last_6mths     |     0.0001 |
+| open_acc           |     0.0127 |
+| pub_rec            |     0.0172 |
+| revol_bal          |     0.0395 |
+| revol_util         |     0.0991 |
+| total_acc          |     0.0079 |
+| mort_acc           |     0.0006 |
+| fico_score         |     0.0875 |
+| emp_length_num     |     0.0008 |
+| credit_hist_months |     0.0086 |
+| term_months        |     0.0090 |
+
 ---
 
 ## 🚀 Deployment
