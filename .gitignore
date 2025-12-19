@@ -36,7 +36,6 @@ models/
 logs/
 *.log
 outputs/
-reports/
 
 data/
 

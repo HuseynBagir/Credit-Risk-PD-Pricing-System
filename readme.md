@@ -162,7 +162,7 @@ Both API and UI use the **same inference logic**, preventing train–serve skew.
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/credit-risk-pd-pricing.git
+git clone https://github.com/HuseynBagir/credit-risk-pd-pricing.git
 cd credit-risk-pd-pricing
 
 python -m venv .venv
